@@ -1,0 +1,47 @@
+/*div {
+  display: inline-block;
+  position: relative;
+}*/
+p {
+  display: block;
+  position: absolute;
+  top: 73%;
+  right: 55%;
+}
+
+.line{
+  background-color: black;
+  height: 7px;
+  width: 120px;
+  margin: 20px;
+  margin-bottom: 60px;
+  margin-left: 0;
+}
+
+section {
+  display: inline-block;
+  width: 31%;
+  position: relative;
+  margin-left: 10%;
+  margin-right: -16%;
+  margin-bottom: 5%;
+}
+
+section > img {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+/*.orderdos {
+  display: inline-block;
+}
+
+/*div {
+  float: left;
+}
+.orderuno {
+  clear: left;
+}
+.orderdos {
+  float: left;
+}*/
